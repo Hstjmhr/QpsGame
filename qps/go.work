@@ -1,0 +1,12 @@
+go 1.22
+
+use (
+	common
+	core
+	framework
+	game
+	user
+	hall
+	connector
+	gate
+)
